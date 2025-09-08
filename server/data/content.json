@@ -1,0 +1,13 @@
+{
+  "consejos": [
+    { "id": 1, "titulo": "Apaga luces", "detalle": "Aprovecha la luz natural para reducir consumo." },
+    { "id": 2, "titulo": "Botella reutilizable", "detalle": "Evita plásticos de un solo uso." }
+  ],
+  "tecnologias": [
+    { "id": 1, "nombre": "Panel solar", "beneficio": "Genera energía limpia." },
+    { "id": 2, "nombre": "LED", "beneficio": "Reduce el consumo hasta 80%." }
+  ],
+  "mitos": [
+    { "id": 1, "mito": "Reciclar siempre es rentable", "realidad": "Depende de la logística y materiales." }
+  ]
+}
